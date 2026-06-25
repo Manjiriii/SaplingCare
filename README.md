@@ -36,11 +36,31 @@ Sapling Care contributes to environmental sustainability by supporting plantatio
 
 ## 📸 Screenshots
 
-### Home Page
-![Home] (screenshots/Landing page.png)
+### 🏠 Landing Page
+![Landing Page](screenshots/Landing%20page.png)
 
-### Other Page
-![Page](screenshots/page1.png)
+### 🔐 Login Page
+![Login](screenshots/Login.png)
+
+### 📝 Registration Page
+![Register](screenshots/Registration.png)
+
+### 📊 Dashboard
+![Dashboard](screenshots/Dashboard1.png)
+![Dashboard](screenshots/Dashboard2.png)
+
+### ℹ️ About Page
+![About](screenshots/About%20Page1.png)
+![About](screenshots/About%20Page2.png)
+
+### ⭐ Features Page
+![Features](screenshots/Features1.png)
+![Features](screenshots/Features2.png)
+![Features](screenshots/Features3.png)
+![Features](screenshots/Features4.png)
+
+### 📞 Contact Page
+![Contact](screenshots/contacts.png)
 
 👩‍💻 Developed By
 
