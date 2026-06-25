@@ -1,0 +1,82 @@
+﻿/* ---------- OTHER SCREENS (REGISTER / LOGIN / APP) ---------- */
+
+/* Shared container style */
+#screen-register,
+#screen-login {
+    max-width: 900px;
+    margin: 30px auto;
+    background: rgba(245, 255, 247, 0.95);
+    border-radius: 20px;
+    padding: 22px 26px 26px;
+    box-shadow: 0 16px 34px rgba(0, 0, 0, 0.28);
+}
+
+    /* Shared headings */
+    #screen-register h2,
+    #screen-login h2 {
+        text-align: center;
+        color: #064e3b;
+        margin-bottom: 12px;
+    }
+
+    #screen-register p,
+    #screen-login p {
+        text-align: center;
+        margin-bottom: 14px;
+        color: #4b5563;
+    }
+
+/* Form labels */
+form label {
+    font-size: 0.9rem;
+    color: #374151;
+}
+
+/* Inputs */
+input,
+select,
+textarea {
+    font-family: inherit;
+    font-size: 0.9rem;
+    padding: 7px 8px;
+    border-radius: 8px;
+    border: 1px solid #d1d5db;
+    width: 100%;
+    max-width: 320px;
+}
+
+/* Form alignment */
+#screen-register form,
+#screen-login form {
+    max-width: 360px;
+    margin: 0 auto;
+}
+
+/* Buttons */
+#screen-register button,
+#screen-login button {
+    border-radius: 999px;
+    padding: 7px 16px;
+    font-size: 0.9rem;
+    border: none;
+    cursor: pointer;
+    margin: 6px 4px 0 0;
+    background: #15803d;
+    color: #fff;
+    transition: background 0.15s ease, transform 0.15s ease;
+}
+
+    #screen-register button:hover,
+    #screen-login button:hover {
+        background: #166534;
+        transform: translateY(-1px);
+    }
+
+/* Messages */
+#register-message,
+#login-message {
+    margin-top: 10px;
+    font-weight: 500;
+    text-align: center;
+    color: #166534;
+}

@@ -1,0 +1,96 @@
+﻿/* REGISTER PAGE LAYOUT CLEAN   */
+
+
+/* Center the entire form section */
+#screen-register {
+    text-align: center;
+}
+
+    /* Heading */
+    #screen-register h2 {
+        margin-bottom: 10px;
+    }
+
+    /* Subtitle text */
+    #screen-register p {
+        margin-bottom: 25px;
+        font-size: 0.95rem;
+        color: #4b5563;
+    }
+
+    /* Form container */
+    #screen-register form {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    /* Labels */
+    #screen-register label {
+        width: 320px;
+        text-align: left;
+        margin-top: 14px;
+        margin-bottom: 6px;
+        font-size: 0.9rem;
+        color: #374151;
+    }
+
+    /* Inputs + Dropdown */
+    #screen-register input,
+    #screen-register select {
+        width: 320px;
+        padding: 10px;
+        border-radius: 8px;
+        border: 1px solid #d1d5db;
+        font-size: 0.9rem;
+        margin-bottom: 10px;
+    }
+
+    /* Dropdown styling */
+    #screen-register select {
+        background-color: #ecfdf5;
+        border: 1px solid #bbf7d0;
+        color: #14532d;
+    }
+
+        /* Focus effect */
+        #screen-register input:focus,
+        #screen-register select:focus {
+            outline: none;
+            border-color: #15803d;
+            box-shadow: 0 0 0 2px rgba(21, 128, 61, 0.2);
+        }
+
+    /* Button row */
+    #screen-register .button-row {
+        display: flex;
+        justify-content: center;
+        gap: 16px;
+        margin-top: 25px;
+        align-items: center;
+    }
+
+    /* Solid button */
+    #screen-register .ghost {
+        background: #15803d;
+        color: white;
+        border: 1.5px solid #15803d;
+        border-radius: 999px;
+        width: 150px;
+        height: 40px;
+    }
+
+    /* Outline button */
+    #screen-register .ghost-outline {
+        background: transparent;
+        color: #15803d;
+        border: 1.5px solid #15803d;
+        border-radius: 999px;
+        width: 150px;
+        height: 40px;
+    }
+
+        /* Hover */
+        #screen-register .ghost-outline:hover {
+            background: #e5f4eb;
+        }

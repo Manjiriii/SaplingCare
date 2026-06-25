@@ -1,0 +1,22 @@
+﻿/* ---------- BACKGROUND VIDEO ---------- */
+#bg-video {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+    z-index: -1;
+}
+
+/* ---------- APP CONTENT ---------- */
+.app-content {
+    position: relative;
+    z-index: 1;
+    width: 100%;
+}
+
+/* ---------- SCREEN BASE ---------- */
+.screen {
+    width: 100%;
+}

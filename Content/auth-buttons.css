@@ -1,0 +1,36 @@
+﻿#screen-login .button-row {
+    display: flex;
+    justify-content: center;
+    gap: 16px;
+    margin-top: 18px;
+    align-items: center;
+}
+
+#screen-login .ghost {
+    background: #15803d;
+    color: white;
+    border: 1.5px solid #15803d;
+    border-radius: 999px;
+    padding: 6px 14px;
+    width: 150px;
+    height: 40px;
+    line-height: 24px;
+}
+
+#screen-login .ghost-outline {
+    background: transparent;
+    color: #15803d;
+    border: 1.5px solid #15803d;
+    border-radius: 999px;
+    width: 150px;
+    height: 40px;
+    padding: 6px 14px;
+    font-size: 0.85rem;
+}
+
+    #screen-login .ghost-outline:hover {
+        background: #e5f4eb;
+        transform: translateY(-1px);
+        color: #166534;
+        border-color: #166534;
+    }

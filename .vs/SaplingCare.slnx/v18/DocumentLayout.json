@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C Drive\\Desktop\\SaplingCare\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{417F6817-0CD7-4471-BE49-CFCD18931F6B}|SaplingCare.csproj|d:\\c drive\\desktop\\saplingcare\\landing.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{417F6817-0CD7-4471-BE49-CFCD18931F6B}|SaplingCare.csproj|solutionrelative:landing.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417F6817-0CD7-4471-BE49-CFCD18931F6B}|SaplingCare.csproj|D:\\C Drive\\Desktop\\SaplingCare\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{417F6817-0CD7-4471-BE49-CFCD18931F6B}|SaplingCare.csproj|solutionrelative:about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417F6817-0CD7-4471-BE49-CFCD18931F6B}|SaplingCare.csproj|d:\\c drive\\desktop\\saplingcare\\about.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417F6817-0CD7-4471-BE49-CFCD18931F6B}|SaplingCare.csproj|solutionrelative:about.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417F6817-0CD7-4471-BE49-CFCD18931F6B}|SaplingCare.csproj|d:\\c drive\\desktop\\saplingcare\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{417F6817-0CD7-4471-BE49-CFCD18931F6B}|SaplingCare.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417F6817-0CD7-4471-BE49-CFCD18931F6B}|SaplingCare.csproj|D:\\C Drive\\Desktop\\SaplingCare\\register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{417F6817-0CD7-4471-BE49-CFCD18931F6B}|SaplingCare.csproj|solutionrelative:register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417F6817-0CD7-4471-BE49-CFCD18931F6B}|SaplingCare.csproj|D:\\C Drive\\Desktop\\SaplingCare\\features.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{417F6817-0CD7-4471-BE49-CFCD18931F6B}|SaplingCare.csproj|solutionrelative:features.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417F6817-0CD7-4471-BE49-CFCD18931F6B}|SaplingCare.csproj|D:\\C Drive\\Desktop\\SaplingCare\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{417F6817-0CD7-4471-BE49-CFCD18931F6B}|SaplingCare.csproj|solutionrelative:login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417F6817-0CD7-4471-BE49-CFCD18931F6B}|SaplingCare.csproj|D:\\C Drive\\Desktop\\SaplingCare\\dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{417F6817-0CD7-4471-BE49-CFCD18931F6B}|SaplingCare.csproj|solutionrelative:dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417F6817-0CD7-4471-BE49-CFCD18931F6B}|SaplingCare.csproj|D:\\C Drive\\Desktop\\SaplingCare\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417F6817-0CD7-4471-BE49-CFCD18931F6B}|SaplingCare.csproj|solutionrelative:default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417F6817-0CD7-4471-BE49-CFCD18931F6B}|SaplingCare.csproj|D:\\C Drive\\Desktop\\SaplingCare\\content\\auth-buttons.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{417F6817-0CD7-4471-BE49-CFCD18931F6B}|SaplingCare.csproj|solutionrelative:content\\auth-buttons.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417F6817-0CD7-4471-BE49-CFCD18931F6B}|SaplingCare.csproj|D:\\C Drive\\Desktop\\SaplingCare\\content\\auth.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{417F6817-0CD7-4471-BE49-CFCD18931F6B}|SaplingCare.csproj|solutionrelative:content\\auth.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dashboard.aspx",
+              "DocumentMoniker": "D:\\C Drive\\Desktop\\SaplingCare\\Dashboard.aspx",
+              "RelativeDocumentMoniker": "Dashboard.aspx",
+              "ToolTip": "D:\\C Drive\\Desktop\\SaplingCare\\Dashboard.aspx",
+              "RelativeToolTip": "Dashboard.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-05T05:06:22.764Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "About.aspx.cs",
+              "DocumentMoniker": "D:\\C Drive\\Desktop\\SaplingCare\\About.aspx.cs",
+              "RelativeDocumentMoniker": "About.aspx.cs",
+              "ToolTip": "D:\\C Drive\\Desktop\\SaplingCare\\About.aspx.cs",
+              "RelativeToolTip": "About.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T03:21:04.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\C Drive\\Desktop\\SaplingCare\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "D:\\C Drive\\Desktop\\SaplingCare\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-03-04T03:20:47.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "About.aspx",
+              "DocumentMoniker": "D:\\C Drive\\Desktop\\SaplingCare\\About.aspx",
+              "RelativeDocumentMoniker": "About.aspx",
+              "ToolTip": "D:\\C Drive\\Desktop\\SaplingCare\\About.aspx",
+              "RelativeToolTip": "About.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-29T05:26:59.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Landing.aspx",
+              "DocumentMoniker": "D:\\C Drive\\Desktop\\SaplingCare\\Landing.aspx",
+              "RelativeDocumentMoniker": "Landing.aspx",
+              "ToolTip": "D:\\C Drive\\Desktop\\SaplingCare\\Landing.aspx",
+              "RelativeToolTip": "Landing.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-05T05:04:40.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Register.aspx",
+              "DocumentMoniker": "D:\\C Drive\\Desktop\\SaplingCare\\Register.aspx",
+              "RelativeDocumentMoniker": "Register.aspx",
+              "ToolTip": "D:\\C Drive\\Desktop\\SaplingCare\\Register.aspx",
+              "RelativeToolTip": "Register.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-05T05:05:54.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Features.aspx",
+              "DocumentMoniker": "D:\\C Drive\\Desktop\\SaplingCare\\Features.aspx",
+              "RelativeDocumentMoniker": "Features.aspx",
+              "ToolTip": "D:\\C Drive\\Desktop\\SaplingCare\\Features.aspx",
+              "RelativeToolTip": "Features.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-30T06:56:01.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "D:\\C Drive\\Desktop\\SaplingCare\\Login.aspx",
+              "RelativeDocumentMoniker": "Login.aspx",
+              "ToolTip": "D:\\C Drive\\Desktop\\SaplingCare\\Login.aspx",
+              "RelativeToolTip": "Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-05T05:05:15.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "D:\\C Drive\\Desktop\\SaplingCare\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "Default.aspx.cs",
+              "ToolTip": "D:\\C Drive\\Desktop\\SaplingCare\\Default.aspx.cs",
+              "RelativeToolTip": "Default.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T12:32:42.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "auth-buttons.css",
+              "DocumentMoniker": "D:\\C Drive\\Desktop\\SaplingCare\\Content\\auth-buttons.css",
+              "RelativeDocumentMoniker": "Content\\auth-buttons.css",
+              "ToolTip": "D:\\C Drive\\Desktop\\SaplingCare\\Content\\auth-buttons.css",
+              "RelativeToolTip": "Content\\auth-buttons.css",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-12-29T07:13:44.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "auth.css",
+              "DocumentMoniker": "D:\\C Drive\\Desktop\\SaplingCare\\Content\\auth.css",
+              "RelativeDocumentMoniker": "Content\\auth.css",
+              "ToolTip": "D:\\C Drive\\Desktop\\SaplingCare\\Content\\auth.css",
+              "RelativeToolTip": "Content\\auth.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-12-29T07:09:48.912Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+﻿
+/* UPDATE SAPLING FORM           */
+
+
+.update-form {
+    max-width: 400px;
+    margin-top: 16px;
+}
+
+    /* One field per line */
+    .update-form .form-row {
+        display: flex;
+        flex-direction: column;
+        margin-bottom: 22px;
+    }
+
+    /* Labels */
+    .update-form label {
+        font-size: 0.85rem;
+        margin-bottom: 6px;
+        color: #374151;
+        font-weight: 500;
+    }
+
+    /* Inputs, dropdowns, textarea */
+    .update-form input,
+    .update-form select,
+    .update-form textarea {
+        width: 100%;
+        padding: 10px 12px;
+        border-radius: 8px;
+        border: 1px solid #d1d5db;
+        font-size: 0.9rem;
+    }
+
+/* Checkbox (inline fix) */
+.checkbox-inline {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    font-size: 0.85rem;
+    color: #064e3b;
+}
+
+    .checkbox-inline input {
+        margin: 0;
+    }
+
+/* Submit button */
+.update-form input[type="submit"] {
+    align-self: flex-start;
+    padding: 10px 22px;
+    border-radius: 999px;
+    background: #15803d;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+    .update-form input[type="submit"]:hover {
+        background: #166534;
+    }

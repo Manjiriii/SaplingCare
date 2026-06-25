@@ -1,0 +1,197 @@
+﻿/* ---------- LANDING / INTRO SCREEN ---------- */
+
+.screen-landing {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center; /* horizontal center */
+    align-items: center; /* vertical center */
+    padding: 0; /* remove extra top/bottom padding */
+}
+
+/* Light green opaque card on top of video */
+.landing-overlay {
+    background-color: rgba(230, 247, 237, 0.75);
+    margin: 16px; /* small outer margin */
+    border-radius: 22px;
+    box-shadow: 0 18px 40px rgba(0, 0, 0, 0.35);
+    padding: 32px 60px 48px;
+    width: 100%;
+    max-width: 1400px;
+    min-height: 75vh; /* takes at least 70% of the viewport height */
+}
+
+
+/* ---------- HERO SECTION ---------- */
+
+.hero-pro {
+    display: grid;
+    grid-template-columns: minmax(0, 1.2fr) minmax(0, 1fr);
+    gap: 28px;
+    margin-top: 18px;
+}
+
+/* Left side */
+.hero-left {
+    padding: 10px 6px 10px 0;
+}
+
+.eyebrow {
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    color: #16a34a;
+    margin-bottom: 6px;
+}
+
+.hero-main-title {
+    font-size: 3rem;
+    line-height: 1.1;
+    color: #064e3b;
+    margin: 0 0 14px;
+}
+
+.hero-description {
+    font-size: 1rem;
+    color: #4b5563;
+    max-width: 520px;
+    margin-bottom: 18px;
+}
+
+.hero-cta-row {
+    display: flex;
+    gap: 12px;
+    margin-bottom: 16px;
+    flex-wrap: wrap;
+}
+
+.hero-cta {
+    border-radius: 999px;
+    padding: 10px 22px;
+    border: none;
+    font-size: 0.96rem;
+    cursor: pointer;
+    transition: all 0.15s ease;
+}
+
+    .hero-cta.primary {
+        background: linear-gradient(135deg, #16a34a, #22c55e);
+        color: #fff;
+        box-shadow: 0 12px 22px rgba(22, 163, 74, 0.4);
+    }
+
+        .hero-cta.primary:hover {
+            transform: translateY(-1px);
+        }
+
+    .hero-cta.secondary {
+        background: #e5f4eb;
+        color: #166534;
+    }
+
+        .hero-cta.secondary:hover {
+            background: #d2ecdf;
+        }
+
+/* Small stats row */
+.hero-stats {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-top: 4px;
+}
+
+.stat-card {
+    background: #ffffff;
+    border-radius: 14px;
+    padding: 8px 12px;
+    min-width: 110px;
+    box-shadow: 0 6px 14px rgba(15, 23, 42, 0.08);
+}
+
+.stat-number {
+    display: block;
+    font-weight: 700;
+    color: #047857;
+    font-size: 1.1rem;
+}
+
+.stat-label {
+    font-size: 0.75rem;
+    color: #6b7280;
+}
+
+/* Right side */
+.hero-right {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    gap: 16px;
+}
+
+/* Glass card widget (Today’s Snapshot) */
+.hero-card.glass {
+    width: 260px;
+    padding: 14px 16px;
+    border-radius: 18px;
+    height: 190px;
+    background: rgba(255, 255, 255, 0.92);
+    backdrop-filter: blur(10px);
+    box-shadow: 0 12px 26px rgba(15, 23, 42, 0.25);
+    z-index: 2;
+}
+
+.mini-title {
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: #1f2933;
+    margin-bottom: 8px;
+}
+
+.mini-row {
+    display: flex;
+    justify-content: space-between;
+    font-size: 0.85rem;
+    margin-bottom: 4px;
+}
+
+.mini-label {
+    color: #6b7280;
+}
+
+.mini-value {
+    font-weight: 600;
+    color: #111827;
+}
+
+    .mini-value.success {
+        color: #15803d;
+    }
+
+    .mini-value.alert {
+        color: #b45309;
+    }
+
+.mini-progress {
+    position: relative;
+    height: 6px;
+    border-radius: 999px;
+    background: #e5f4eb;
+    margin: 10px 0 6px;
+    overflow: hidden;
+}
+
+.mini-progress-bar {
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    width: 68%;
+    background: linear-gradient(90deg, #22c55e, #16a34a);
+}
+
+.mini-footnote {
+    font-size: 0.7rem;
+    color: #9ca3af;
+    margin: 0;
+}

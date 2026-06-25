@@ -1,0 +1,49 @@
+﻿/* CONTACT TOOLTIP                */
+
+
+.contact-item {
+    position: relative;
+}
+
+.contact-email {
+    position: absolute;
+    top: 130%;
+    left: 50%;
+    transform: translateX(-50%);
+    background: rgba(21, 128, 61, 0.95);
+    color: #ffffff;
+    padding: 8px 14px;
+    border-radius: 10px;
+    font-size: 0.85rem;
+    font-weight: 500;
+    text-decoration: none;
+    box-shadow: 0 10px 28px rgba(0, 0, 0, 0.35);
+    white-space: nowrap;
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.2s ease, transform 0.2s ease;
+    z-index: 100;
+}
+
+    /* Arrow */
+    .contact-email::before {
+        content: "";
+        position: absolute;
+        top: -6px;
+        left: 50%;
+        transform: translateX(-50%);
+        border-width: 6px;
+        border-style: solid;
+        border-color: transparent transparent rgba(21, 128, 61, 0.95) transparent;
+    }
+
+/* Show on hover */
+.contact-item:hover .contact-email {
+    opacity: 1;
+    visibility: visible;
+    transform: translateX(-50%) translateY(-4px);
+}
+
+.contact-email:hover {
+    background: #166534;
+}
