@@ -16,7 +16,7 @@ Environmental conservation requires not only planting trees but also monitoring 
 
 ## 🛠️ Technologies Used
 
-* ASP.NET
+* ASP.NET Web Forms
 * C#
 * HTML5
 * CSS3
