@@ -35,8 +35,7 @@ Environmental conservation requires not only planting trees but also monitoring 
 
 Sapling Care contributes to environmental sustainability by supporting plantation efforts and helping users stay connected with tree conservation activities through a digital platform.
 
-## 👩‍💻 Developed By
+👩‍💻 Developed By
 
 Manjiri Chavan
-\
  
