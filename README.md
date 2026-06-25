@@ -62,6 +62,12 @@ Sapling Care contributes to environmental sustainability by supporting plantatio
 ### 📞 Contact Page
 ![Contact](screenshots/contacts.png)
 
+## 🎥 Project Demo
+
+Watch the working demo of SaplingCare:
+
+👉 [Click here to watch demo video](https://drive.google.com/file/d/1Z_MxxQmk_xe0UZgLKDRAlDDC2Aul42XU/view?usp=drive_link)
+
 👩‍💻 Developed By
 
 Manjiri Chavan
