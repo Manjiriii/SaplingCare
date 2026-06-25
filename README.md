@@ -23,7 +23,6 @@ Environmental conservation requires not only planting trees but also monitoring 
 * JavaScript
 
 
-
 ## 🎯 Objectives
 
 * Promote environmental awareness.
@@ -34,6 +33,14 @@ Environmental conservation requires not only planting trees but also monitoring 
 ## 🌍 Impact
 
 Sapling Care contributes to environmental sustainability by supporting plantation efforts and helping users stay connected with tree conservation activities through a digital platform.
+
+## 📸 Screenshots
+
+### Home Page
+![Home](screenshots/landing.png)
+
+### Other Page
+![Page](screenshots/page1.png)
 
 👩‍💻 Developed By
 
