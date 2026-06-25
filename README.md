@@ -38,6 +38,5 @@ Sapling Care contributes to environmental sustainability by supporting plantatio
 ## 👩‍💻 Developed By
 
 Manjiri Chavan
-Manjiri Chavan
 \
  C
